@@ -1,0 +1,1 @@
+#code to data trnsformation-1. how to change the categorial features to numerical features ,how to handle label in coding

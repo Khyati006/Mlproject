@@ -23,5 +23,5 @@ setup(
     author_email='mbi2022006@iiita.ac.in',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt'),
-
+    
 )
